@@ -4,7 +4,7 @@
 *Available as of Camel version 3.0*
 
 Soroush messenger is an Iranian instant messaging application, developed by Soroush Media Technology Development.
-The messenger has Android and iOS versions for phones, and also Windows, MacOS and Linux version for computers.
+The messenger has Android and iOS versions for phones, and also Windows, MacOS and Linux versions for computers.
 
 The *Soroush* component provides access to the https://soroush-app.ir/developer.html[Soroush Bot API].
 It allows a Camel-based application to send and receive messages by acting as a Bot, i.e. participating in direct conversation with normal users and send and receive message and files
